@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\gravity\gravity\obj\Debug\netcoreapp3.1\gravity.csprojAssemblyReference.cache
+C:\Users\user\source\repos\gravity\gravity\obj\Debug\netcoreapp3.1\gravity.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\gravity\gravity\obj\Debug\netcoreapp3.1\gravity.AssemblyInfo.cs
+C:\Users\user\source\repos\gravity\gravity\obj\Debug\netcoreapp3.1\gravity.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\gravity\gravity\bin\Debug\netcoreapp3.1\gravity.exe
+C:\Users\user\source\repos\gravity\gravity\bin\Debug\netcoreapp3.1\gravity.deps.json
+C:\Users\user\source\repos\gravity\gravity\bin\Debug\netcoreapp3.1\gravity.runtimeconfig.json
+C:\Users\user\source\repos\gravity\gravity\bin\Debug\netcoreapp3.1\gravity.runtimeconfig.dev.json
+C:\Users\user\source\repos\gravity\gravity\bin\Debug\netcoreapp3.1\gravity.dll
+C:\Users\user\source\repos\gravity\gravity\bin\Debug\netcoreapp3.1\gravity.pdb
+C:\Users\user\source\repos\gravity\gravity\obj\Debug\netcoreapp3.1\gravity.dll
+C:\Users\user\source\repos\gravity\gravity\obj\Debug\netcoreapp3.1\gravity.pdb
+C:\Users\user\source\repos\gravity\gravity\obj\Debug\netcoreapp3.1\gravity.genruntimeconfig.cache

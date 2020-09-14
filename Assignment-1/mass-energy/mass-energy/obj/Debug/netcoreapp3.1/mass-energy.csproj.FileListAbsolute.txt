@@ -1,0 +1,13 @@
+D:\vs bullsht\mass-energy\mass-energy\bin\Debug\netcoreapp3.1\mass-energy.exe
+D:\vs bullsht\mass-energy\mass-energy\bin\Debug\netcoreapp3.1\mass-energy.deps.json
+D:\vs bullsht\mass-energy\mass-energy\bin\Debug\netcoreapp3.1\mass-energy.runtimeconfig.json
+D:\vs bullsht\mass-energy\mass-energy\bin\Debug\netcoreapp3.1\mass-energy.runtimeconfig.dev.json
+D:\vs bullsht\mass-energy\mass-energy\bin\Debug\netcoreapp3.1\mass-energy.dll
+D:\vs bullsht\mass-energy\mass-energy\bin\Debug\netcoreapp3.1\mass-energy.pdb
+D:\vs bullsht\mass-energy\mass-energy\obj\Debug\netcoreapp3.1\mass-energy.csprojAssemblyReference.cache
+D:\vs bullsht\mass-energy\mass-energy\obj\Debug\netcoreapp3.1\mass-energy.AssemblyInfoInputs.cache
+D:\vs bullsht\mass-energy\mass-energy\obj\Debug\netcoreapp3.1\mass-energy.AssemblyInfo.cs
+D:\vs bullsht\mass-energy\mass-energy\obj\Debug\netcoreapp3.1\mass-energy.csproj.CoreCompileInputs.cache
+D:\vs bullsht\mass-energy\mass-energy\obj\Debug\netcoreapp3.1\mass-energy.dll
+D:\vs bullsht\mass-energy\mass-energy\obj\Debug\netcoreapp3.1\mass-energy.pdb
+D:\vs bullsht\mass-energy\mass-energy\obj\Debug\netcoreapp3.1\mass-energy.genruntimeconfig.cache

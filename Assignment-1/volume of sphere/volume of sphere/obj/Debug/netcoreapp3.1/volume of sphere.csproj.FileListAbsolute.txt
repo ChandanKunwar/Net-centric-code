@@ -1,0 +1,13 @@
+D:\vs bullsht\volume of sphere\volume of sphere\bin\Debug\netcoreapp3.1\volume of sphere.exe
+D:\vs bullsht\volume of sphere\volume of sphere\bin\Debug\netcoreapp3.1\volume of sphere.deps.json
+D:\vs bullsht\volume of sphere\volume of sphere\bin\Debug\netcoreapp3.1\volume of sphere.runtimeconfig.json
+D:\vs bullsht\volume of sphere\volume of sphere\bin\Debug\netcoreapp3.1\volume of sphere.runtimeconfig.dev.json
+D:\vs bullsht\volume of sphere\volume of sphere\bin\Debug\netcoreapp3.1\volume of sphere.dll
+D:\vs bullsht\volume of sphere\volume of sphere\bin\Debug\netcoreapp3.1\volume of sphere.pdb
+D:\vs bullsht\volume of sphere\volume of sphere\obj\Debug\netcoreapp3.1\volume of sphere.csprojAssemblyReference.cache
+D:\vs bullsht\volume of sphere\volume of sphere\obj\Debug\netcoreapp3.1\volume of sphere.AssemblyInfoInputs.cache
+D:\vs bullsht\volume of sphere\volume of sphere\obj\Debug\netcoreapp3.1\volume of sphere.AssemblyInfo.cs
+D:\vs bullsht\volume of sphere\volume of sphere\obj\Debug\netcoreapp3.1\volume of sphere.csproj.CoreCompileInputs.cache
+D:\vs bullsht\volume of sphere\volume of sphere\obj\Debug\netcoreapp3.1\volume of sphere.dll
+D:\vs bullsht\volume of sphere\volume of sphere\obj\Debug\netcoreapp3.1\volume of sphere.pdb
+D:\vs bullsht\volume of sphere\volume of sphere\obj\Debug\netcoreapp3.1\volume of sphere.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\vs bullsht\simple intrest\simple intrest\bin\Debug\netcoreapp3.1\simple intrest.exe
+D:\vs bullsht\simple intrest\simple intrest\bin\Debug\netcoreapp3.1\simple intrest.deps.json
+D:\vs bullsht\simple intrest\simple intrest\bin\Debug\netcoreapp3.1\simple intrest.runtimeconfig.json
+D:\vs bullsht\simple intrest\simple intrest\bin\Debug\netcoreapp3.1\simple intrest.runtimeconfig.dev.json
+D:\vs bullsht\simple intrest\simple intrest\bin\Debug\netcoreapp3.1\simple intrest.dll
+D:\vs bullsht\simple intrest\simple intrest\bin\Debug\netcoreapp3.1\simple intrest.pdb
+D:\vs bullsht\simple intrest\simple intrest\obj\Debug\netcoreapp3.1\simple intrest.AssemblyInfoInputs.cache
+D:\vs bullsht\simple intrest\simple intrest\obj\Debug\netcoreapp3.1\simple intrest.AssemblyInfo.cs
+D:\vs bullsht\simple intrest\simple intrest\obj\Debug\netcoreapp3.1\simple intrest.csproj.CoreCompileInputs.cache
+D:\vs bullsht\simple intrest\simple intrest\obj\Debug\netcoreapp3.1\simple intrest.dll
+D:\vs bullsht\simple intrest\simple intrest\obj\Debug\netcoreapp3.1\simple intrest.pdb
+D:\vs bullsht\simple intrest\simple intrest\obj\Debug\netcoreapp3.1\simple intrest.genruntimeconfig.cache
