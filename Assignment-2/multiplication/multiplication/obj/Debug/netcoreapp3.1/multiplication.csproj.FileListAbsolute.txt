@@ -1,0 +1,13 @@
+D:\vs bullsht\multiplication\multiplication\bin\Debug\netcoreapp3.1\multiplication.exe
+D:\vs bullsht\multiplication\multiplication\bin\Debug\netcoreapp3.1\multiplication.deps.json
+D:\vs bullsht\multiplication\multiplication\bin\Debug\netcoreapp3.1\multiplication.runtimeconfig.json
+D:\vs bullsht\multiplication\multiplication\bin\Debug\netcoreapp3.1\multiplication.runtimeconfig.dev.json
+D:\vs bullsht\multiplication\multiplication\bin\Debug\netcoreapp3.1\multiplication.dll
+D:\vs bullsht\multiplication\multiplication\bin\Debug\netcoreapp3.1\multiplication.pdb
+D:\vs bullsht\multiplication\multiplication\obj\Debug\netcoreapp3.1\multiplication.csprojAssemblyReference.cache
+D:\vs bullsht\multiplication\multiplication\obj\Debug\netcoreapp3.1\multiplication.AssemblyInfoInputs.cache
+D:\vs bullsht\multiplication\multiplication\obj\Debug\netcoreapp3.1\multiplication.AssemblyInfo.cs
+D:\vs bullsht\multiplication\multiplication\obj\Debug\netcoreapp3.1\multiplication.csproj.CoreCompileInputs.cache
+D:\vs bullsht\multiplication\multiplication\obj\Debug\netcoreapp3.1\multiplication.dll
+D:\vs bullsht\multiplication\multiplication\obj\Debug\netcoreapp3.1\multiplication.pdb
+D:\vs bullsht\multiplication\multiplication\obj\Debug\netcoreapp3.1\multiplication.genruntimeconfig.cache

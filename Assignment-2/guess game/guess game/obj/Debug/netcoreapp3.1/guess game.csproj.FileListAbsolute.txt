@@ -1,0 +1,13 @@
+D:\vs bullsht\guess game\guess game\bin\Debug\netcoreapp3.1\guess game.exe
+D:\vs bullsht\guess game\guess game\bin\Debug\netcoreapp3.1\guess game.deps.json
+D:\vs bullsht\guess game\guess game\bin\Debug\netcoreapp3.1\guess game.runtimeconfig.json
+D:\vs bullsht\guess game\guess game\bin\Debug\netcoreapp3.1\guess game.runtimeconfig.dev.json
+D:\vs bullsht\guess game\guess game\bin\Debug\netcoreapp3.1\guess game.dll
+D:\vs bullsht\guess game\guess game\bin\Debug\netcoreapp3.1\guess game.pdb
+D:\vs bullsht\guess game\guess game\obj\Debug\netcoreapp3.1\guess game.csprojAssemblyReference.cache
+D:\vs bullsht\guess game\guess game\obj\Debug\netcoreapp3.1\guess game.AssemblyInfoInputs.cache
+D:\vs bullsht\guess game\guess game\obj\Debug\netcoreapp3.1\guess game.AssemblyInfo.cs
+D:\vs bullsht\guess game\guess game\obj\Debug\netcoreapp3.1\guess game.csproj.CoreCompileInputs.cache
+D:\vs bullsht\guess game\guess game\obj\Debug\netcoreapp3.1\guess game.dll
+D:\vs bullsht\guess game\guess game\obj\Debug\netcoreapp3.1\guess game.pdb
+D:\vs bullsht\guess game\guess game\obj\Debug\netcoreapp3.1\guess game.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\vs bullsht\matrix sum and diff\matrix sum and diff\bin\Debug\netcoreapp3.1\matrix sum and diff.exe
+D:\vs bullsht\matrix sum and diff\matrix sum and diff\bin\Debug\netcoreapp3.1\matrix sum and diff.deps.json
+D:\vs bullsht\matrix sum and diff\matrix sum and diff\bin\Debug\netcoreapp3.1\matrix sum and diff.runtimeconfig.json
+D:\vs bullsht\matrix sum and diff\matrix sum and diff\bin\Debug\netcoreapp3.1\matrix sum and diff.runtimeconfig.dev.json
+D:\vs bullsht\matrix sum and diff\matrix sum and diff\bin\Debug\netcoreapp3.1\matrix sum and diff.dll
+D:\vs bullsht\matrix sum and diff\matrix sum and diff\bin\Debug\netcoreapp3.1\matrix sum and diff.pdb
+D:\vs bullsht\matrix sum and diff\matrix sum and diff\obj\Debug\netcoreapp3.1\matrix sum and diff.csprojAssemblyReference.cache
+D:\vs bullsht\matrix sum and diff\matrix sum and diff\obj\Debug\netcoreapp3.1\matrix sum and diff.AssemblyInfoInputs.cache
+D:\vs bullsht\matrix sum and diff\matrix sum and diff\obj\Debug\netcoreapp3.1\matrix sum and diff.AssemblyInfo.cs
+D:\vs bullsht\matrix sum and diff\matrix sum and diff\obj\Debug\netcoreapp3.1\matrix sum and diff.csproj.CoreCompileInputs.cache
+D:\vs bullsht\matrix sum and diff\matrix sum and diff\obj\Debug\netcoreapp3.1\matrix sum and diff.dll
+D:\vs bullsht\matrix sum and diff\matrix sum and diff\obj\Debug\netcoreapp3.1\matrix sum and diff.pdb
+D:\vs bullsht\matrix sum and diff\matrix sum and diff\obj\Debug\netcoreapp3.1\matrix sum and diff.genruntimeconfig.cache
