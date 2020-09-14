@@ -1,0 +1,13 @@
+D:\vs bullsht\mean and median\mean and median\bin\Debug\netcoreapp3.1\mean and median.exe
+D:\vs bullsht\mean and median\mean and median\bin\Debug\netcoreapp3.1\mean and median.deps.json
+D:\vs bullsht\mean and median\mean and median\bin\Debug\netcoreapp3.1\mean and median.runtimeconfig.json
+D:\vs bullsht\mean and median\mean and median\bin\Debug\netcoreapp3.1\mean and median.runtimeconfig.dev.json
+D:\vs bullsht\mean and median\mean and median\bin\Debug\netcoreapp3.1\mean and median.dll
+D:\vs bullsht\mean and median\mean and median\bin\Debug\netcoreapp3.1\mean and median.pdb
+D:\vs bullsht\mean and median\mean and median\obj\Debug\netcoreapp3.1\mean and median.csprojAssemblyReference.cache
+D:\vs bullsht\mean and median\mean and median\obj\Debug\netcoreapp3.1\mean and median.AssemblyInfoInputs.cache
+D:\vs bullsht\mean and median\mean and median\obj\Debug\netcoreapp3.1\mean and median.AssemblyInfo.cs
+D:\vs bullsht\mean and median\mean and median\obj\Debug\netcoreapp3.1\mean and median.csproj.CoreCompileInputs.cache
+D:\vs bullsht\mean and median\mean and median\obj\Debug\netcoreapp3.1\mean and median.dll
+D:\vs bullsht\mean and median\mean and median\obj\Debug\netcoreapp3.1\mean and median.pdb
+D:\vs bullsht\mean and median\mean and median\obj\Debug\netcoreapp3.1\mean and median.genruntimeconfig.cache
