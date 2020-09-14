@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\compound\compound\bin\Debug\netcoreapp3.1\compound.exe
+C:\Users\user\source\repos\compound\compound\bin\Debug\netcoreapp3.1\compound.deps.json
+C:\Users\user\source\repos\compound\compound\bin\Debug\netcoreapp3.1\compound.runtimeconfig.json
+C:\Users\user\source\repos\compound\compound\bin\Debug\netcoreapp3.1\compound.runtimeconfig.dev.json
+C:\Users\user\source\repos\compound\compound\bin\Debug\netcoreapp3.1\compound.dll
+C:\Users\user\source\repos\compound\compound\bin\Debug\netcoreapp3.1\compound.pdb
+C:\Users\user\source\repos\compound\compound\obj\Debug\netcoreapp3.1\compound.csprojAssemblyReference.cache
+C:\Users\user\source\repos\compound\compound\obj\Debug\netcoreapp3.1\compound.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\compound\compound\obj\Debug\netcoreapp3.1\compound.AssemblyInfo.cs
+C:\Users\user\source\repos\compound\compound\obj\Debug\netcoreapp3.1\compound.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\compound\compound\obj\Debug\netcoreapp3.1\compound.dll
+C:\Users\user\source\repos\compound\compound\obj\Debug\netcoreapp3.1\compound.pdb
+C:\Users\user\source\repos\compound\compound\obj\Debug\netcoreapp3.1\compound.genruntimeconfig.cache

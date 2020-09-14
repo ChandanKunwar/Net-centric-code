@@ -1,0 +1,13 @@
+D:\vs bullsht\body mass index\body mass index\bin\Debug\netcoreapp3.1\body mass index.exe
+D:\vs bullsht\body mass index\body mass index\bin\Debug\netcoreapp3.1\body mass index.deps.json
+D:\vs bullsht\body mass index\body mass index\bin\Debug\netcoreapp3.1\body mass index.runtimeconfig.json
+D:\vs bullsht\body mass index\body mass index\bin\Debug\netcoreapp3.1\body mass index.runtimeconfig.dev.json
+D:\vs bullsht\body mass index\body mass index\bin\Debug\netcoreapp3.1\body mass index.dll
+D:\vs bullsht\body mass index\body mass index\bin\Debug\netcoreapp3.1\body mass index.pdb
+D:\vs bullsht\body mass index\body mass index\obj\Debug\netcoreapp3.1\body mass index.AssemblyInfoInputs.cache
+D:\vs bullsht\body mass index\body mass index\obj\Debug\netcoreapp3.1\body mass index.AssemblyInfo.cs
+D:\vs bullsht\body mass index\body mass index\obj\Debug\netcoreapp3.1\body mass index.csproj.CoreCompileInputs.cache
+D:\vs bullsht\body mass index\body mass index\obj\Debug\netcoreapp3.1\body mass index.dll
+D:\vs bullsht\body mass index\body mass index\obj\Debug\netcoreapp3.1\body mass index.pdb
+D:\vs bullsht\body mass index\body mass index\obj\Debug\netcoreapp3.1\body mass index.genruntimeconfig.cache
+D:\vs bullsht\body mass index\body mass index\obj\Debug\netcoreapp3.1\body mass index.csprojAssemblyReference.cache

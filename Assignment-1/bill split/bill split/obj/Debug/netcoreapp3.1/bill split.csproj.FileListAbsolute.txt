@@ -1,0 +1,13 @@
+D:\vs bullsht\bill split\bill split\bin\Debug\netcoreapp3.1\bill split.exe
+D:\vs bullsht\bill split\bill split\bin\Debug\netcoreapp3.1\bill split.deps.json
+D:\vs bullsht\bill split\bill split\bin\Debug\netcoreapp3.1\bill split.runtimeconfig.json
+D:\vs bullsht\bill split\bill split\bin\Debug\netcoreapp3.1\bill split.runtimeconfig.dev.json
+D:\vs bullsht\bill split\bill split\bin\Debug\netcoreapp3.1\bill split.dll
+D:\vs bullsht\bill split\bill split\bin\Debug\netcoreapp3.1\bill split.pdb
+D:\vs bullsht\bill split\bill split\obj\Debug\netcoreapp3.1\bill split.csprojAssemblyReference.cache
+D:\vs bullsht\bill split\bill split\obj\Debug\netcoreapp3.1\bill split.AssemblyInfoInputs.cache
+D:\vs bullsht\bill split\bill split\obj\Debug\netcoreapp3.1\bill split.AssemblyInfo.cs
+D:\vs bullsht\bill split\bill split\obj\Debug\netcoreapp3.1\bill split.csproj.CoreCompileInputs.cache
+D:\vs bullsht\bill split\bill split\obj\Debug\netcoreapp3.1\bill split.dll
+D:\vs bullsht\bill split\bill split\obj\Debug\netcoreapp3.1\bill split.pdb
+D:\vs bullsht\bill split\bill split\obj\Debug\netcoreapp3.1\bill split.genruntimeconfig.cache

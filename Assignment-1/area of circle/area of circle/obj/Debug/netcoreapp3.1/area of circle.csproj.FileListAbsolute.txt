@@ -1,0 +1,13 @@
+D:\vs bullsht\area of circle\area of circle\obj\Debug\netcoreapp3.1\area of circle.csprojAssemblyReference.cache
+D:\vs bullsht\area of circle\area of circle\obj\Debug\netcoreapp3.1\area of circle.AssemblyInfoInputs.cache
+D:\vs bullsht\area of circle\area of circle\obj\Debug\netcoreapp3.1\area of circle.AssemblyInfo.cs
+D:\vs bullsht\area of circle\area of circle\obj\Debug\netcoreapp3.1\area of circle.csproj.CoreCompileInputs.cache
+D:\vs bullsht\area of circle\area of circle\bin\Debug\netcoreapp3.1\area of circle.exe
+D:\vs bullsht\area of circle\area of circle\bin\Debug\netcoreapp3.1\area of circle.deps.json
+D:\vs bullsht\area of circle\area of circle\bin\Debug\netcoreapp3.1\area of circle.runtimeconfig.json
+D:\vs bullsht\area of circle\area of circle\bin\Debug\netcoreapp3.1\area of circle.runtimeconfig.dev.json
+D:\vs bullsht\area of circle\area of circle\bin\Debug\netcoreapp3.1\area of circle.dll
+D:\vs bullsht\area of circle\area of circle\bin\Debug\netcoreapp3.1\area of circle.pdb
+D:\vs bullsht\area of circle\area of circle\obj\Debug\netcoreapp3.1\area of circle.dll
+D:\vs bullsht\area of circle\area of circle\obj\Debug\netcoreapp3.1\area of circle.pdb
+D:\vs bullsht\area of circle\area of circle\obj\Debug\netcoreapp3.1\area of circle.genruntimeconfig.cache
